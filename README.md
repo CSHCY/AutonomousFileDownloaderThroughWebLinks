@@ -1,6 +1,7 @@
 # Student File Download Script
 
 This repository provides a Python script to automate the downloading of student files from an Excel spreadsheet. The script is designed for teachers, administrators, or anyone who needs to batch-download files submitted by students, such as assignments, reports, or other resources.
+本项目服务于复旦大学“步青计划”
 
 ## Background
 
